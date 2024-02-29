@@ -1,0 +1,5 @@
+script_key = "GAwHylfiuforLLdgasdaSdasdasas"
+getgenv().Digsite = "AdvancedDigsite" --Digsite
+getgenv().Panel = true
+getgenv().NoMagicBucket = false -- If You Dont Have Enough Bucket
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2c345f4b537fd09769e08b345a1e8773.lua"))()
